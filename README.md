@@ -4,7 +4,7 @@ A Machine Learning based Cardiac Disease Classification Web Aplication.
 ~ <b>cardiocareapp.py</b> is created to deploy the machine learning model on Streamlit.
 <p>~ Datasets taken from <a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset">Kaggle.</a></p>
 
-## Screenshot of the App's Interface
+## Screenshot of the Web App's Interface
 <p><img  src="screenshot.png"></p>
 
 
